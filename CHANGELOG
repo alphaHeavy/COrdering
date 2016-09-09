@@ -1,0 +1,14 @@
+2.1
+---
+* Initial Hackage/Cabal release.
+  Version set to 2.1 to distinguish from the 2.0 (non-cabal) release on my home page.
+
+2.2 (Final release)
+-------------------
+* No code changes.
+* Removed link to Haskell wiki homepage as this will never be done.
+* Removed link to maintainer email.
+
+2.3
+---
+No code changes, just reclaiming ownership and bumping version No.
